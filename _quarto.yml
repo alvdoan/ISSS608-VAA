@@ -5,14 +5,16 @@ website:
   title: "ISSS608-VAA"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+    - text: "Hands on work"
+      menu:
+      - text: "Hands on exercice 1"
+    right:
+    - text: "This is my test placement for the header."
+        
 format:
   html:
     theme:
-      - cosmo
+      - morph
       - brand
     css: styles.css
     toc: true
