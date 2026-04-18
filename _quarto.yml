@@ -10,6 +10,7 @@ website:
       - text: "Hands on exercice 1"
     right:
     - text: "This is my test placement for the header."
+    - text: "This is another test to see if it works on mac"
         
 format:
   html:
